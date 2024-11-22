@@ -23,7 +23,7 @@ class Customer {
     }
 
     boolean isCreditLimitExceeded() {
-        return this.netBalance < this.creditLimit;  // Should be netBalance < creditLimit to check limit exceeded
+        return this.netBalance < this.creditLimit;  
     }
 }
 
