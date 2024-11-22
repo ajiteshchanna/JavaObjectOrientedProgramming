@@ -48,6 +48,5 @@ public class ParkingGarage {
         
         System.out.println("\nTotal receipts for yesterday: $" + totalReceipts);
         
-        sc.close();
     }
 }
